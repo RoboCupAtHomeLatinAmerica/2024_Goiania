@@ -4,8 +4,13 @@ var info = {
     city: "Goiânia - Goiás",
     chair: "Fagner de Assis Moura Pimentel &ltfagnerpimentel@gmail.com&gt",
     oc: "<ul>\
-            <li>OC 1</li>\
-            <li>OC 2</li>\
+            <li>Ana Patricia Magalhães (UNEB/UNIFACS)</li>\
+            <li>Jardel dos Santos Dyonisio (FURG)</li>\
+            <li>Kristofer Kappel (UFPEL)</li>\
+            <li>Gabriela Bassegio (FEI)</li>\
+            <li>Gustavo Fardo Armênio (UTFPR)</li>\
+            <li>José Rafael Rebêlo Teles (UFG)</li>\
+            <li>Rhayna Christiani Vasconcelos Marques Casado (USP)</li>\
         </ul>"
 };
 
